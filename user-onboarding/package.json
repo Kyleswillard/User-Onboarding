@@ -39,6 +39,7 @@
     ]
   },
   "devDependencies": {
+    "cypress": "^6.1.0",
     "prettier": "2.2.1"
   }
 }
